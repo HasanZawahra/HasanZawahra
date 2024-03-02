@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanzawahra&label=Profile%20views&color=0e75b6&style=flat" alt="hasanzawahra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hasan-zawahra-620781271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hasan-zawahra-620781271" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-zawahra-620781271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-zawahra-620781271/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100004604612685&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004604612685&ref=xav_ig_profile_web" height="30" width="40" /></a>
 <a href="https://instagram.com/hasan_zawahra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan_zawahra" height="30" width="40" /></a>
 </p>
