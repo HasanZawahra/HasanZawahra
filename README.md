@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
+<img src="https://img1.wallspic.com/crops/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-1920x1080.png">
+<!-- <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">Software Engineer</h3>
-
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanzawahra&label=Profile%20views&color=0e75b6&style=flat" alt="hasanzawahra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
