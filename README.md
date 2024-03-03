@@ -1,4 +1,4 @@
-<img height="250" src="https://img1.wallspic.com/crops/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-1920x1080.png">
+<img height="250" width="100%" src="https://img1.wallspic.com/crops/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-1920x1080.png">
 <!-- <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">Software Engineer</h3>
  -->
